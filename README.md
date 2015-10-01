@@ -1,5 +1,5 @@
-# stacked_denoising_auto_encoder
-Stacked Denoising Auto-Encoder in Theano. Using the mnist dataset.
+# Stacked Denoising Auto-Encoder 
+In Theano. Using the mnist dataset.
 
 ## Running
 
